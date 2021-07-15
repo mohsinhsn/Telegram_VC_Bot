@@ -1,4 +1,4 @@
-HEROKU = True  # NOTE Make it false if you're not deploying on heroku.
+HEROKU = false  # NOTE Make it false if you're not deploying on heroku.
 
 # NOTE these values are for heroku & Docker.
 if HEROKU:
@@ -16,10 +16,10 @@ if HEROKU:
 
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
-    API_ID = 14371
-    API_HASH = "e46b6c854d2bf58a0"
-    ARQ_API_KEY = "Get this from @ARQRobot"
-    CHAT_ID = -100546355432
+    API_ID = 4369053
+    API_HASH = "b0b1e3fec36ee8c094d77f8737cc1b1d"
+    ARQ_API_KEY = "YVWBYD-VWLMUO-CBBPXB-RACBZY-ARQ"
+    CHAT_ID = -1001390776885
     DEFAULT_SERVICE = "youtube"  # Must be one of "youtube"/"deezer"/"saavn"
 
 # don't make changes below this line
