@@ -1,8 +1,8 @@
 {
-  "name": "Telegram Voice Chat Bot",
-  "description": "Telegram Voice-Chat Bot Written In Python Using Pytgcalls & Pyrogram.",
-  "repository": "https://github.com/thehamkercat/Telegram_VC_Bot",
-  "logo": "https://i.imgur.com/8S8NVy0.png",
+  "name": "Popcorn Music Bot",
+  "description": "popcorn music Bot Written In Python Using Pytgcalls & Pyrogram.",
+  "repository": "https://github.com/mohsinhsn/Telegram_VC_Bot",
+  "logo": "https://telegra.ph/file/de160a8fa6ec59247e280.jpg",
   "keywords": [
     "python",
     "telegram",
