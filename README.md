@@ -1,8 +1,8 @@
-# Telegram Voice-Chat Bot [ Pytgcalls ]
+# Popcorn music Bot [ Pytgcalls ]
 
-Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In Your Group.
+Popcorn music Bot To Play Music With Pytgcalls From Various Sources In Your Group.
 
-<img src="https://hamker.me/wl9twld.png" width="690" height="400">
+<img src="https://telegra.ph/file/de160a8fa6ec59247e280.jpg" width="690" height="400">
 
 
 ## Requirements
@@ -50,10 +50,10 @@ $ python3 generate_string_session.py
 Fork this repository and change name of `sample_config.py` to `config.py`
 Then you will need get a session string, copy it, then press heroku deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thehamkercat/Telegram_VC_Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mohsinhsn/Telegram_VC_Bot/tree/master)
 
 
-Send [commands](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
+Send [commands](https://github.com/mohsinhsn/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
 play music.
 
 
@@ -92,7 +92,7 @@ Command | Description
 
 ## Note
 
-1. If you want any help you can ask [here](https://t.me/tgvcsupport)
+1. If you want any help you can ask [here](https://t.me/tithonus)
 
 ## Credits
 
